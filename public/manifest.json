@@ -1,0 +1,27 @@
+{
+  "name": "Queen E - Wisdom doesn't wrinkle",
+  "short_name": "Queen E",
+  "description": "A wise elder sharing timeless truths. Empowering younger women with wisdom and faith.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8E7",
+  "theme_color": "#800020",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/queene-favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/queene-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle", "spirituality"],
+  "prefer_related_applications": false
+}
+
