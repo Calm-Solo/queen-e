@@ -15,6 +15,7 @@ export default function VideoCard({ episode }: VideoCardProps) {
     <Link href={`/episodes/${episode.id}`} className="group">
       <div className="bg-cream rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 fade-in">
         <div className="relative aspect-video bg-burgundy overflow-hidden">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={thumbnailUrl}
             alt={episode.title}

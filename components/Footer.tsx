@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="font-serif text-xl font-bold mb-4">Queen E</h3>
-            <p className="text-sm">Wisdom doesn't wrinkle.</p>
+            <p className="text-sm">Wisdom doesn&apos;t wrinkle.</p>
             <p className="text-sm mt-2">Empowering younger women with wisdom and faith.</p>
           </div>
           
